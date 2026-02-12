@@ -1,0 +1,10 @@
+Large Language Models (LLMs) can generate coherent text and assist with many NLP tasks.
+Information retrieval (IR) systems rank documents by relevance to a user query.
+Cosine similarity is commonly used to compare embedding vectors in retrieval pipelines.
+Transformers rely on self-attention to model relationships between tokens in a sequence.
+Fine-tuning adapts a pretrained model to a specific domain or task with additional training.
+Embeddings map text into high-dimensional vectors that capture semantic meaning.
+Streamlit is a Python framework for quickly building and sharing data apps.
+A retrieval-augmented generation (RAG) system combines document retrieval with text generation.
+Indexing and efficient search (e.g., ANN) help scale retrieval to large document collections.
+Preprocessing text (cleaning, normalization) can improve downstream retrieval quality.
